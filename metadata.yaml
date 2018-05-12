@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/593
     wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17168#The-Queen-of-the-Pirate-Isle
 gutenberg_bookshelf:
 - Children's Picture Books
 - Pirates, Buccaneers, Corsairs, etc.
